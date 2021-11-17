@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1013.0",
+    "pdfkit": "^0.12.3"
+  }
+}

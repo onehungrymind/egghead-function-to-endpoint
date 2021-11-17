@@ -1,0 +1,16 @@
+service: egghead-mock-api
+
+frameworkVersion: "2"
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  lambdaHashingVersion: 20201221
+
+functions:
+  users:
+    handler: handler.users
+    events:
+      - httpApi:
+          path: /api/users
+          method: get
