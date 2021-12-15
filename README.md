@@ -12,7 +12,7 @@ In this example, we are going to create a mock API using Faker and then deploy i
 
 [The Video Lesson](https://egghead.io/lessons/javascript-create-a-mock-api-endpoint-using-faker-and-serverless)
 
-[The Code](egghead-mock-api/README.md)
+[The Code](egghead-mock-api/)
 
 <br />
 
@@ -22,7 +22,7 @@ In this example, we are going to trigger a custom Zapier webhook to log a messag
 
 [The Video Lesson](https://egghead.io/lessons/javascript-trigger-a-custom-webhook-with-a-serverless-function)
 
-[The Code](egghead-zap-webhook/README.md)
+[The Code](egghead-zap-webhook/)
 
 <br />
 
@@ -32,7 +32,7 @@ In this example, we are going to use Cheerio to scrape and parse the NCAA websit
 
 [The Video Lesson](https://egghead.io/lessons/javascript-scrape-a-webpage-with-a-serverless-function)
 
-[The Code](egghead-ncaa-rankings/README.md)
+[The Code](egghead-ncaa-rankings/)
 
 <br />
 
@@ -42,4 +42,4 @@ In this example, we are going to generate a PDF from a Lambda function and then 
 
 [The Video Lesson](https://egghead.io/lessons/javascript-generate-a-pdf-from-a-lambda-function-and-store-it-on-aws-s3)
 
-[The Code](egghead-pdf-generator/README.md)
+[The Code](egghead-pdf-generator/)
